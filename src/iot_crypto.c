@@ -5,7 +5,7 @@
 
 #include <esp_random.h>
 
-#include "../include/crypto.h"
+#include "../include/iot_crypto.h"
 
 void
 crypto_random_fill (uint8_t *buffer, size_t size) {

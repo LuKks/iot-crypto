@@ -1,11 +1,11 @@
-# crypto
+# iot-crypto
 
 Cryptographic functions in C for IoT
 
 ## Usage
 
 ```c
-#include "crypto.h"
+#include "iot_crypto.h"
 
 void app_main () {
   uint8_t buf[8];
@@ -16,7 +16,7 @@ void app_main () {
 
 ## API
 
-See [`include/crypto.h`](include/crypto.h) for the public API.
+See [`include/iot_crypto.h`](include/iot_crypto.h) for the public API.
 
 ## License
 

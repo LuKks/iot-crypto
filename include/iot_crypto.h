@@ -1,5 +1,5 @@
-#ifndef CRYPTO_H
-#define CRYPTO_H
+#ifndef IOT_CRYPTO_H
+#define IOT_CRYPTO_H
 
 #ifdef __cplusplus
 extern "C" {
@@ -21,4 +21,4 @@ crypto_random_bytes (size_t size);
 }
 #endif
 
-#endif // CRYPTO_H
+#endif // IOT_CRYPTO_H
